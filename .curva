@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "createdAt": "2026-03-15T20:44:32.060Z",
-  "updatedAt": "2026-03-15T21:18:34.379Z",
+  "updatedAt": "2026-03-15T21:18:38.845Z",
   "tailwind": true,
   "entryFile": "App.svelte"
 }
