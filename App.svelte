@@ -5,7 +5,7 @@ let count = $state(0);
 
 <div class="min-h-screen bg-zinc-950 text-zinc-50 flex items-center justify-center p-8">
 	<div class="w-full max-w-96 flex flex-col gap-8 justify-center items-center text-pink-500">
-		<h1 class="font-semibold tracking-tight text-7xl text-yellow-500">Hello {name}!</h1>
+		<h1 class="font-semibold tracking-tight text-7xl text-yellow-500 text-center">Hello {name}🤘</h1>
 		
 		<input
 			bind:value={name}
