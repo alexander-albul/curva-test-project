@@ -4,7 +4,7 @@ let count = $state(0);
 </script>
 
 <div class="min-h-screen bg-zinc-950 text-zinc-50 flex items-center justify-center p-8">
-	<div class="w-full space-y-6 max-w-96">
+	<div class="w-full max-w-96 flex flex-col gap-8 justify-center items-center">
 		<h1 class="font-semibold tracking-tight text-7xl">Hello {name}!</h1>
 		
 		<input
