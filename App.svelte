@@ -1,6 +1,6 @@
 <script>
-	let name = $state('world');
-	let count = $state(0);
+let name = $state('Curva');
+let count = $state(0);
 </script>
 
 <div class="min-h-screen bg-zinc-950 text-zinc-50 flex items-center justify-center p-8">
