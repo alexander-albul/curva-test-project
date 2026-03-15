@@ -1,5 +1,5 @@
 <script>
-let name = $state('Curva');
+let name = $state('Атэц');
 let count = $state(0);
 </script>
 
